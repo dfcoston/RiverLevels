@@ -12,6 +12,6 @@ Running the C# script will query the DB for the most recent recorded date in a r
 
 I then have built a view to aggrigate the 15 minute data intervals for each river into a daily average for each river.  Metrics include: cubic feet per second, gauge height, and temperature.  However, due to weather conditions (ie ICE), some metrics will not be available.
 
-Long story short, the output is this nice graph that makes judging river flow in relation to previous years possible.
+Long story short, the output is a graph that makes judging river flow in relation to previous years possible.
 
 https://public.tableau.com/profile/derrick.coston#!/vizhome/MTRivers/dashboard
